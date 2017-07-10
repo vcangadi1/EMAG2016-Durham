@@ -1,5 +1,0 @@
-\beamer@endinputifotherversion {3.33pt}
-\beamer@sectionintoc {1}{Motivation}{2}{0}{1}
-\beamer@sectionintoc {2}{Pre-edge region}{3}{0}{2}
-\beamer@sectionintoc {3}{Post-edge region}{4}{0}{3}
-\beamer@sectionintoc {4}{Optimal fit}{5}{0}{4}
